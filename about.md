@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Us
-permalink: /about-us/
+title: About
+permalink: /about/
 ---
 
 Historian and Digital Scholar of Africa and the African Diaspora
