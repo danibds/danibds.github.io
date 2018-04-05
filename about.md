@@ -1,10 +1,18 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Us
+permalink: /about-us/
 ---
 
-Some information about you!
+Historian and Digital Scholar of Africa and the African Diaspora
+
+# Big Header
+
+## Not a Big Header
+
+*I am italics.*
+
+**I am bold.**
 
 ### More Information
 
